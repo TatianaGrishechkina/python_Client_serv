@@ -1,0 +1,11 @@
+2021-03-11 23:10:09,359 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMServer object at 0x03325940>, '', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-11 23:10:09,359 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-03-11 23:10:22,114 INFO server.py Установлено соедение с ПК ('127.0.0.1', 54229)
+2021-03-11 23:10:22,117 DEBUG decorator.py Была вызвана функция process_client c параметрами (<__main__.JIMServer object at 0x03325940>, <socket.socket fd=672, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54229)>, ('127.0.0.1', 54229)), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-11 23:10:22,120 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03347AA8>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process_client.
+2021-03-11 23:10:22,120 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1615493422.1165342, 'user': {'account_name': 'Guest'}}
+2021-03-11 23:10:22,122 DEBUG decorator.py Была вызвана функция process_client_message c параметрами (<class '__main__.JIMServer'>, {'action': 'presence', 'time': 1615493422.1165342, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция process_client.
+2021-03-11 23:10:22,123 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1615493422.1165342, 'user': {'account_name': 'Guest'}}
+2021-03-11 23:10:22,123 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-03-11 23:10:22,125 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03347AA8>, {'response': 200}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process_client.
+2021-03-11 23:10:22,125 DEBUG server.py Соединение с клиентом ('127.0.0.1', 54229) закрывается.

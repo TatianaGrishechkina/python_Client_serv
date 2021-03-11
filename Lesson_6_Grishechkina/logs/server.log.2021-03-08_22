@@ -1,0 +1,23 @@
+2021-03-08 22:03:10,537 CRITICAL config_server_log.py Критическая ошибка
+2021-03-08 22:03:10,537 ERROR config_server_log.py Ошибка
+2021-03-08 22:03:10,538 DEBUG config_server_log.py Отладочная информация
+2021-03-08 22:03:10,538 INFO config_server_log.py Информационное сообщение
+2021-03-08 22:03:56,657 CRITICAL config_server_log.py Критическая ошибка
+2021-03-08 22:03:56,657 ERROR config_server_log.py Ошибка
+2021-03-08 22:03:56,657 DEBUG config_server_log.py Отладочная информация
+2021-03-08 22:03:56,658 INFO config_server_log.py Информационное сообщение
+2021-03-08 22:04:08,540 CRITICAL config_server_log.py Критическая ошибка
+2021-03-08 22:04:08,542 ERROR config_server_log.py Ошибка
+2021-03-08 22:04:08,543 DEBUG config_server_log.py Отладочная информация
+2021-03-08 22:04:08,543 INFO config_server_log.py Информационное сообщение
+2021-03-08 22:04:39,090 CRITICAL config_server_log.py Критическая ошибка
+2021-03-08 22:04:39,090 ERROR config_server_log.py Ошибка
+2021-03-08 22:04:39,090 INFO config_server_log.py Информационное сообщение
+2021-03-08 22:07:13,240 CRITICAL config_server_log.py Критическая ошибка
+2021-03-08 22:07:13,240 ERROR config_server_log.py Ошибка
+2021-03-08 22:07:13,240 DEBUG config_server_log.py Отладочная информация
+2021-03-08 22:07:13,241 INFO config_server_log.py Информационное сообщение
+2021-03-08 22:07:29,049 CRITICAL config_server_log.py Критическая ошибка
+2021-03-08 22:07:29,049 ERROR config_server_log.py Ошибка
+2021-03-08 22:07:29,049 DEBUG config_server_log.py Отладочная информация
+2021-03-08 22:07:29,050 INFO config_server_log.py Информационное сообщение
