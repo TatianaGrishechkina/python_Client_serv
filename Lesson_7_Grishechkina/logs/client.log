@@ -1,0 +1,467 @@
+2021-03-13 15:45:10,655 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 15:45:10,693 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x02FE0760>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 15:45:10,697 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 15:45:10,697 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 15:45:10,699 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x0301A628>, {'action': 'presence', 'time': 1615639510.6978428, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:45:10,701 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x0301A628>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:47:04,823 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 15:47:04,865 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03A40760>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 15:47:04,870 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 15:47:04,870 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 15:47:04,872 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03A7A628>, {'action': 'presence', 'time': 1615639624.8707907, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:47:04,874 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03A7A628>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:49:27,463 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 15:49:27,502 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03C40760>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 15:49:27,506 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 15:49:27,506 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 15:49:27,508 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03C6A628>, {'action': 'presence', 'time': 1615639767.5063937, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:49:27,510 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03C6A628>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:50:58,449 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 15:50:58,487 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03D50760>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 15:50:58,490 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 15:50:58,490 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 15:50:58,492 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03D8A628>, {'action': 'presence', 'time': 1615639858.4915245, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:50:58,494 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03D8A628>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:54:27,928 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 15:54:27,968 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03770760>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 15:54:27,972 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 15:54:27,972 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 15:54:27,974 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x037AA628>, {'action': 'presence', 'time': 1615640067.972891, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:54:27,976 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x037AA628>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:56:46,822 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 15:56:46,862 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03290760>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 15:56:46,865 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 15:56:46,865 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 15:56:46,867 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x032BA628>, {'action': 'presence', 'time': 1615640206.8658595, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:56:46,869 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x032BA628>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:57:10,512 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 15:57:10,553 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03000760>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 15:57:10,556 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 15:57:10,556 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 15:57:10,558 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x0303A628>, {'action': 'presence', 'time': 1615640230.5568707, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:57:10,560 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x0303A628>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:57:21,329 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 15:57:21,366 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x035D0760>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 15:57:21,370 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 15:57:21,370 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 15:57:21,372 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x0360A628>, {'action': 'presence', 'time': 1615640241.370385, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:57:21,373 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x0360A628>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:57:21,876 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 15:57:21,876 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 15:57:21,876 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 15:57:35,766 DEBUG decorator.py Была вызвана функция send_message c параметрами (<__main__.JIMClient object at 0x035D0760>, 'test'), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 15:57:35,768 DEBUG decorator.py Была вызвана функция create_message c параметрами (<class '__main__.JIMClient'>, 'test'), {}. Используемый модуль: common.jimbase и функция main(). Также была вызвана функция send_message.
+2021-03-13 15:58:50,093 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 15:58:50,132 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03DF5460>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 15:58:50,136 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 15:58:50,136 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 15:58:50,138 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03DF55E0>, {'action': 'presence', 'time': 1615640330.136636, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:58:50,140 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03DF55E0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 15:58:50,642 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 15:58:50,642 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 15:58:50,642 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 15:58:52,277 DEBUG decorator.py Была вызвана функция send_message c параметрами (<__main__.JIMClient object at 0x03DF5460>, 'test'), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 15:58:52,280 DEBUG decorator.py Была вызвана функция create_message c параметрами (<class '__main__.JIMClient'>, 'test'), {}. Используемый модуль: common.jimbase и функция main(). Также была вызвана функция send_message.
+2021-03-13 15:58:52,280 DEBUG jimbase.py Сформирован словарь сообщения: {'action': 'message', 'time': 1615640332.2800224, 'account_name': 'Guest', 'mess_text': 'test'}
+2021-03-13 15:58:52,281 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03DF55E0>, {'action': 'message', 'time': 1615640332.2800224, 'account_name': 'Guest', 'mess_text': 'test'}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция send_message.
+2021-03-13 15:59:06,886 DEBUG decorator.py Была вызвана функция send_message c параметрами (<__main__.JIMClient object at 0x03DF5460>, 'test'), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 15:59:06,889 DEBUG decorator.py Была вызвана функция create_message c параметрами (<class '__main__.JIMClient'>, 'test'), {}. Используемый модуль: common.jimbase и функция main(). Также была вызвана функция send_message.
+2021-03-13 15:59:06,890 DEBUG jimbase.py Сформирован словарь сообщения: {'action': 'message', 'time': 1615640346.8900938, 'account_name': 'Guest', 'mess_text': 'test'}
+2021-03-13 15:59:06,892 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03DF55E0>, {'action': 'message', 'time': 1615640346.8900938, 'account_name': 'Guest', 'mess_text': 'test'}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция send_message.
+2021-03-13 15:59:45,575 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 15:59:45,576 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 15:59:45,586 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 15:59:45,636 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 15:59:45,709 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 15:59:45,789 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 15:59:45,862 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:13,698 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:13,754 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:13,756 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:13,796 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:13,819 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:13,898 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:13,909 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:29,103 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:29,137 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:29,144 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:29,235 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:29,315 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:29,317 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:00:29,328 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:01:16,863 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:01:16,912 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:01:17,058 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:01:17,086 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:01:17,131 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:01:17,153 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:01:17,285 ERROR client.py В качестве порта может быть указано только число в диапазоне от 1024 до 65535.
+2021-03-13 16:02:57,486 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:02:57,532 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:02:57,532 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:02:57,540 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x034E8268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:02:57,546 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,546 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:02:57,549 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x034E84F0>, {'action': 'presence', 'time': 1615640577.546368, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,551 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x034E84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,582 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:02:57,584 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:02:57,590 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x038C8268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:02:57,592 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03518268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:02:57,595 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,595 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:02:57,597 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,597 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:02:57,598 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x038C84F0>, {'action': 'presence', 'time': 1615640577.5951927, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,600 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x035184F0>, {'action': 'presence', 'time': 1615640577.597145, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,603 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x038C84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,604 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x035184F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,604 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,604 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:02:57,604 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:02:57,607 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x034E8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:02:57,610 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x034E84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:02:57,613 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,613 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:02:57,613 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:02:57,619 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x038C8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:02:57,622 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,622 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:02:57,622 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:02:57,623 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x038C84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:02:57,625 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x03518268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:02:57,627 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x035184F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:02:57,634 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:02:57,643 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:02:57,647 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x02DD8268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:02:57,649 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x02F98268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:02:57,652 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,652 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:02:57,653 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,653 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:02:57,654 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02DD84F0>, {'action': 'presence', 'time': 1615640577.6528056, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,656 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02F984F0>, {'action': 'presence', 'time': 1615640577.6537821, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,657 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02DD84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,658 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02F984F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,684 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03108268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:02:57,688 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,688 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:02:57,690 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x037E8268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:02:57,690 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x031084F0>, {'action': 'presence', 'time': 1615640577.6889367, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,693 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x031084F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,694 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,694 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:02:57,696 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,696 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:02:57,696 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:02:57,697 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x037E84F0>, {'action': 'presence', 'time': 1615640577.6948013, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,698 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02DD8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:02:57,700 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x037E84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,700 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02DD84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:02:57,704 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,704 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:02:57,705 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:02:57,712 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,712 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:02:57,712 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:02:57,718 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:02:57,718 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:02:57,718 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:02:57,720 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x037E8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:02:57,722 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x037E84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:03:22,660 DEBUG decorator.py Была вызвана функция send_message c параметрами (<__main__.JIMClient object at 0x03108268>, 'asdfasdfasdf'), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:03:22,661 DEBUG decorator.py Была вызвана функция create_message c параметрами (<class '__main__.JIMClient'>, 'asdfasdfasdf'), {}. Используемый модуль: common.jimbase и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:03:22,662 DEBUG jimbase.py Сформирован словарь сообщения: {'action': 'message', 'time': 1615640602.661641, 'account_name': 'Guest', 'mess_text': 'asdfasdfasdf'}
+2021-03-13 16:03:22,663 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x031084F0>, {'action': 'message', 'time': 1615640602.661641, 'account_name': 'Guest', 'mess_text': 'asdfasdfasdf'}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:03:22,752 INFO client.py Получено сообщение от пользователя Guest:
+asdfasdfasdf
+2021-03-13 16:03:22,754 INFO client.py Получено сообщение от пользователя Guest:
+asdfasdfasdf
+2021-03-13 16:03:22,755 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x034E8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:03:22,756 INFO client.py Получено сообщение от пользователя Guest:
+asdfasdfasdf
+2021-03-13 16:03:22,757 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x038C8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:03:22,758 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x034E84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:03:22,758 INFO client.py Получено сообщение от пользователя Guest:
+asdfasdfasdf
+2021-03-13 16:03:22,759 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x038C84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:03:22,761 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02DD8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:03:22,762 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x035184F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:03:22,763 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02DD84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:03:22,764 INFO client.py Получено сообщение от пользователя Guest:
+asdfasdfasdf
+2021-03-13 16:03:22,766 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x037E8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:03:22,768 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x037E84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:03:28,748 DEBUG decorator.py Была вызвана функция send_message c параметрами (<__main__.JIMClient object at 0x02F98268>, 'asetrfsrthdgfh'), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:03:28,750 DEBUG decorator.py Была вызвана функция create_message c параметрами (<class '__main__.JIMClient'>, 'asetrfsrthdgfh'), {}. Используемый модуль: common.jimbase и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:03:28,750 DEBUG jimbase.py Сформирован словарь сообщения: {'action': 'message', 'time': 1615640608.7504442, 'account_name': 'Guest', 'mess_text': 'asetrfsrthdgfh'}
+2021-03-13 16:03:28,752 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02F984F0>, {'action': 'message', 'time': 1615640608.7504442, 'account_name': 'Guest', 'mess_text': 'asetrfsrthdgfh'}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:03:28,773 INFO client.py Получено сообщение от пользователя Guest:
+asetrfsrthdgfh
+2021-03-13 16:03:28,775 INFO client.py Получено сообщение от пользователя Guest:
+asetrfsrthdgfh
+2021-03-13 16:03:28,776 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x034E8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:03:28,778 INFO client.py Получено сообщение от пользователя Guest:
+asetrfsrthdgfh
+2021-03-13 16:03:28,778 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x038C8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:03:28,778 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x034E84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:03:28,780 INFO client.py Получено сообщение от пользователя Guest:
+asetrfsrthdgfh
+2021-03-13 16:03:28,780 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x03518268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:03:28,781 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x038C84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:03:28,782 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02DD8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:03:28,783 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x035184F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:03:28,784 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02DD84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:03:28,786 INFO client.py Получено сообщение от пользователя Guest:
+asetrfsrthdgfh
+2021-03-13 16:03:28,787 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x037E8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:03:28,789 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x037E84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:10:05,681 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:10:05,691 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:10:05,693 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:10:05,711 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:10:05,732 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:10:05,759 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:10:05,770 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:10:05,772 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03648268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:05,777 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,777 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:10:05,780 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036484F0>, {'action': 'presence', 'time': 1615641005.7775562, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,783 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036484F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,814 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x02F16268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:05,820 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,820 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:10:05,823 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02F164F0>, {'action': 'presence', 'time': 1615641005.8205228, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,824 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03C78268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:05,826 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02F164F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,829 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,829 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:10:05,832 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03C784F0>, {'action': 'presence', 'time': 1615641005.8293104, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,835 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03C784F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,838 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,838 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:10:05,838 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:10:05,847 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,847 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:10:05,847 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:10:05,848 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x02E28268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:05,853 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,854 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:10:05,858 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02E284F0>, {'action': 'presence', 'time': 1615641005.8547, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,861 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x02F78268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:05,862 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02E284F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,863 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,863 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:10:05,863 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:10:05,866 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,866 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:10:05,868 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02F16268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:05,869 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x039F8268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:05,869 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03178268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:05,872 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02F784F0>, {'action': 'presence', 'time': 1615641005.8664176, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,877 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,877 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02F784F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,877 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:10:05,878 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,878 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:10:05,878 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:10:05,878 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02F164F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:10:05,878 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,879 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:10:05,881 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02E28268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:05,881 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x039F84F0>, {'action': 'presence', 'time': 1615641005.8771596, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,883 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02E284F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:10:05,884 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x039F84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,886 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x031784F0>, {'action': 'presence', 'time': 1615641005.8791132, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,886 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,887 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:10:05,887 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:10:05,889 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02F78268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:05,890 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x031784F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,892 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02F784F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:10:05,894 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:05,894 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:10:05,894 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:10:05,895 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x039F8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:05,898 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x039F84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:10:06,401 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:10:06,401 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:10:06,401 INFO client.py Принят ответ от сервера 200 : OK
+2021-03-13 16:10:06,403 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x03178268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:06,405 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x031784F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:10:26,523 DEBUG decorator.py Была вызвана функция send_message c параметрами (<__main__.JIMClient object at 0x03C78268>, 'sdfadsfasfd'), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:26,525 DEBUG decorator.py Была вызвана функция create_message c параметрами (<class '__main__.JIMClient'>, 'sdfadsfasfd'), {}. Используемый модуль: common.jimbase и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:10:26,525 DEBUG jimbase.py Сформирован словарь сообщения: {'action': 'message', 'time': 1615641026.5254917, 'account_name': 'Guest', 'mess_text': 'sdfadsfasfd'}
+2021-03-13 16:10:26,527 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03C784F0>, {'action': 'message', 'time': 1615641026.5254917, 'account_name': 'Guest', 'mess_text': 'sdfadsfasfd'}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:10:26,925 INFO client.py Получено сообщение от пользователя Guest:
+sdfadsfasfd
+2021-03-13 16:10:26,928 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02F16268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:26,929 INFO client.py Получено сообщение от пользователя Guest:
+sdfadsfasfd
+2021-03-13 16:10:26,931 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02F164F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:10:26,931 INFO client.py Получено сообщение от пользователя Guest:
+sdfadsfasfd
+2021-03-13 16:10:26,932 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02E28268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:26,933 INFO client.py Получено сообщение от пользователя Guest:
+sdfadsfasfd
+2021-03-13 16:10:26,934 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02F78268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:26,934 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02E284F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:10:26,935 INFO client.py Получено сообщение от пользователя Guest:
+sdfadsfasfd
+2021-03-13 16:10:26,936 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x039F8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:26,937 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02F784F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:10:26,938 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x03178268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:10:26,938 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x039F84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:10:26,940 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x031784F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:16:39,709 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:16:39,711 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:16:39,787 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03198268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:16:39,791 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03BC8268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:16:39,793 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:16:39,794 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:16:39,818 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:16:39,824 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:16:39,861 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-03-13 16:16:39,870 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x02FB6268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:16:39,871 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x02FB8268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:16:39,876 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,876 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:16:39,877 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,877 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:16:39,880 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB64F0>, {'action': 'presence', 'time': 1615641399.8773549, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,881 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB84F0>, {'action': 'presence', 'time': 1615641399.878332, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,883 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB64F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,884 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,892 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03DA8268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:16:39,894 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03B08268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:16:39,896 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,896 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:16:39,899 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03DA84F0>, {'action': 'presence', 'time': 1615641399.8968842, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,899 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,899 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:16:39,902 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03DA84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,902 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03B084F0>, {'action': 'presence', 'time': 1615641399.900791, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,905 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03B084F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,905 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,905 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:16:39,906 INFO client.py Принят ответ от сервера Подключение к серверу установлено!
+2021-03-13 16:16:39,908 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02FB6268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:16:39,910 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB64F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:16:39,913 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,913 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:16:39,913 INFO client.py Принят ответ от сервера Подключение к серверу установлено!
+2021-03-13 16:16:39,915 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02FB8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:16:39,917 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:16:39,921 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,921 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:16:39,922 INFO client.py Принят ответ от сервера Подключение к серверу установлено!
+2021-03-13 16:16:39,922 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMClient object at 0x03618268>, '127.0.0.1', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:16:39,926 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,927 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:16:39,929 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,929 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:16:39,929 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036184F0>, {'action': 'presence', 'time': 1615641399.9271562, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,929 INFO client.py Принят ответ от сервера Подключение к серверу установлено!
+2021-03-13 16:16:39,932 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x03B08268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:16:39,932 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036184F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:39,933 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03B084F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:16:40,291 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:40,291 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:16:40,294 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x031984F0>, {'action': 'presence', 'time': 1615641400.292937, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:40,295 DEBUG decorator.py Была вызвана функция create_presence c параметрами (<class '__main__.JIMClient'>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:40,295 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-03-13 16:16:40,297 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x031984F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:40,298 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03BC84F0>, {'action': 'presence', 'time': 1615641400.2958653, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:40,300 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:40,300 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:16:40,300 INFO client.py Принят ответ от сервера Подключение к серверу установлено!
+2021-03-13 16:16:40,301 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03BC84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:40,302 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x03618268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:16:40,305 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036184F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:16:40,307 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:40,307 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:16:40,307 INFO client.py Принят ответ от сервера Подключение к серверу установлено!
+2021-03-13 16:16:40,309 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x03198268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:16:40,311 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x031984F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:16:40,814 DEBUG decorator.py Была вызвана функция process_ans c параметрами (<class '__main__.JIMClient'>, {'response': 200}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция start.
+2021-03-13 16:16:40,814 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-03-13 16:16:40,814 INFO client.py Принят ответ от сервера Подключение к серверу установлено!
+2021-03-13 16:17:02,755 DEBUG decorator.py Была вызвана функция send_message c параметрами (<__main__.JIMClient object at 0x03DA8268>, 'fdgsdfsdfs'), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:02,757 DEBUG decorator.py Была вызвана функция create_message c параметрами (<class '__main__.JIMClient'>, 'fdgsdfsdfs'), {}. Используемый модуль: common.jimbase и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:17:02,757 DEBUG jimbase.py Сформирован словарь сообщения: {'action': 'message', 'time': 1615641422.7572076, 'account_name': 'Guest', 'mess_text': 'fdgsdfsdfs'}
+2021-03-13 16:17:02,759 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03DA84F0>, {'action': 'message', 'time': 1615641422.7572076, 'account_name': 'Guest', 'mess_text': 'fdgsdfsdfs'}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:17:02,843 INFO client.py Получено сообщение от пользователя Guest:
+fdgsdfsdfs
+2021-03-13 16:17:02,845 INFO client.py Получено сообщение от пользователя Guest:
+fdgsdfsdfs
+2021-03-13 16:17:02,845 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02FB6268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:02,847 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02FB8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:02,847 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB64F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:02,848 INFO client.py Получено сообщение от пользователя Guest:
+fdgsdfsdfs
+2021-03-13 16:17:02,849 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:02,850 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x03B08268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:02,852 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03B084F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:05,395 DEBUG decorator.py Была вызвана функция send_message c параметрами (<__main__.JIMClient object at 0x03DA8268>, 'asdfafda'), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:05,397 DEBUG decorator.py Была вызвана функция create_message c параметрами (<class '__main__.JIMClient'>, 'asdfafda'), {}. Используемый модуль: common.jimbase и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:17:05,397 DEBUG jimbase.py Сформирован словарь сообщения: {'action': 'message', 'time': 1615641425.3975296, 'account_name': 'Guest', 'mess_text': 'asdfafda'}
+2021-03-13 16:17:05,399 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03DA84F0>, {'action': 'message', 'time': 1615641425.3975296, 'account_name': 'Guest', 'mess_text': 'asdfafda'}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:17:05,861 INFO client.py Получено сообщение от пользователя Guest:
+asdfafda
+2021-03-13 16:17:05,862 INFO client.py Получено сообщение от пользователя Guest:
+asdfafda
+2021-03-13 16:17:05,863 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02FB6268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:05,864 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02FB8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:05,866 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB64F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:05,866 INFO client.py Получено сообщение от пользователя Guest:
+asdfafda
+2021-03-13 16:17:05,867 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:05,868 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x03B08268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:05,870 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03B084F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:07,739 DEBUG decorator.py Была вызвана функция send_message c параметрами (<__main__.JIMClient object at 0x03DA8268>, 'asdfaertwegrsdg'), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:07,744 DEBUG decorator.py Была вызвана функция create_message c параметрами (<class '__main__.JIMClient'>, 'asdfaertwegrsdg'), {}. Используемый модуль: common.jimbase и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:17:07,744 DEBUG jimbase.py Сформирован словарь сообщения: {'action': 'message', 'time': 1615641427.7443457, 'account_name': 'Guest', 'mess_text': 'asdfaertwegrsdg'}
+2021-03-13 16:17:07,747 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03DA84F0>, {'action': 'message', 'time': 1615641427.7443457, 'account_name': 'Guest', 'mess_text': 'asdfaertwegrsdg'}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:17:07,875 INFO client.py Получено сообщение от пользователя Guest:
+asdfaertwegrsdg
+2021-03-13 16:17:07,877 INFO client.py Получено сообщение от пользователя Guest:
+asdfaertwegrsdg
+2021-03-13 16:17:07,877 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02FB6268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:07,880 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB64F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:07,882 INFO client.py Получено сообщение от пользователя Guest:
+asdfaertwegrsdg
+2021-03-13 16:17:07,882 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:07,884 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x03B08268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:07,886 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03B084F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:09,643 DEBUG decorator.py Была вызвана функция send_message c параметрами (<__main__.JIMClient object at 0x03DA8268>, 'afdsgasfrg'), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:09,645 DEBUG decorator.py Была вызвана функция create_message c параметрами (<class '__main__.JIMClient'>, 'afdsgasfrg'), {}. Используемый модуль: common.jimbase и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:17:09,645 DEBUG jimbase.py Сформирован словарь сообщения: {'action': 'message', 'time': 1615641429.645741, 'account_name': 'Guest', 'mess_text': 'afdsgasfrg'}
+2021-03-13 16:17:09,647 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03DA84F0>, {'action': 'message', 'time': 1615641429.645741, 'account_name': 'Guest', 'mess_text': 'afdsgasfrg'}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:17:09,891 INFO client.py Получено сообщение от пользователя Guest:
+afdsgasfrg
+2021-03-13 16:17:09,892 INFO client.py Получено сообщение от пользователя Guest:
+afdsgasfrg
+2021-03-13 16:17:09,892 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02FB6268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:09,894 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02FB8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:09,895 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB64F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:09,896 INFO client.py Получено сообщение от пользователя Guest:
+afdsgasfrg
+2021-03-13 16:17:09,896 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:09,898 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x03B08268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:09,900 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03B084F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:12,051 DEBUG decorator.py Была вызвана функция send_message c параметрами (<__main__.JIMClient object at 0x03DA8268>, 'adsfaf'), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:12,052 DEBUG decorator.py Была вызвана функция create_message c параметрами (<class '__main__.JIMClient'>, 'adsfaf'), {}. Используемый модуль: common.jimbase и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:17:12,052 DEBUG jimbase.py Сформирован словарь сообщения: {'action': 'message', 'time': 1615641432.0529861, 'account_name': 'Guest', 'mess_text': 'adsfaf'}
+2021-03-13 16:17:12,054 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03DA84F0>, {'action': 'message', 'time': 1615641432.0529861, 'account_name': 'Guest', 'mess_text': 'adsfaf'}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция send_message.
+2021-03-13 16:17:12,405 INFO client.py Получено сообщение от пользователя Guest:
+adsfaf
+2021-03-13 16:17:12,407 INFO client.py Получено сообщение от пользователя Guest:
+adsfaf
+2021-03-13 16:17:12,408 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02FB6268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:12,409 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x02FB8268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:12,410 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB64F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:12,411 INFO client.py Получено сообщение от пользователя Guest:
+adsfaf
+2021-03-13 16:17:12,411 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x02FB84F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
+2021-03-13 16:17:12,413 DEBUG decorator.py Была вызвана функция message_from_server c параметрами (<__main__.JIMClient object at 0x03B08268>,), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:17:12,415 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03B084F0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция message_from_server.
