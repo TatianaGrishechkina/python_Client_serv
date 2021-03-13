@@ -248,3 +248,53 @@
 2021-03-13 16:17:12,409 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03B37628>, {'action': 'message', 'sender': 'Guest', 'time': 1615641432.4034348, 'mess_text': 'adsfaf'}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process.
 2021-03-13 16:17:12,411 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03B37208>, {'action': 'message', 'sender': 'Guest', 'time': 1615641432.4034348, 'mess_text': 'adsfaf'}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process.
 2021-03-13 16:17:12,413 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x03B37220>, {'action': 'message', 'sender': 'Guest', 'time': 1615641432.4034348, 'mess_text': 'adsfaf'}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,289 DEBUG decorator.py Была вызвана функция start c параметрами (<__main__.JIMServer object at 0x01690FD0>, '', 7777), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция main.
+2021-03-13 16:21:51,289 INFO server.py Запущен сервер, порт для подключений: 7777, адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-03-13 16:21:51,405 INFO server.py Установлено соединение с ПК ('127.0.0.1', 59290)
+2021-03-13 16:21:51,425 INFO server.py Установлено соединение с ПК ('127.0.0.1', 59291)
+2021-03-13 16:21:51,425 INFO server.py Есть сообщения от клиентов
+2021-03-13 16:21:51,427 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B25B0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,430 DEBUG decorator.py Была вызвана функция process_client_message c параметрами (<__main__.JIMServer object at 0x01690FD0>, <common.json_messenger.JSONMessenger object at 0x036B25B0>, {'action': 'presence', 'time': 1615641711.4084046, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,430 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1615641711.4084046, 'user': {'account_name': 'Guest'}}
+2021-03-13 16:21:51,430 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-03-13 16:21:51,434 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B25B0>, {'response': 200}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process_client_message.
+2021-03-13 16:21:51,434 INFO server.py Установлено соединение с ПК ('127.0.0.1', 59292)
+2021-03-13 16:21:51,434 INFO server.py Есть сообщения от клиентов
+2021-03-13 16:21:51,437 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B2358>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,440 DEBUG decorator.py Была вызвана функция process_client_message c параметрами (<__main__.JIMServer object at 0x01690FD0>, <common.json_messenger.JSONMessenger object at 0x036B2358>, {'action': 'presence', 'time': 1615641711.4289112, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,440 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1615641711.4289112, 'user': {'account_name': 'Guest'}}
+2021-03-13 16:21:51,440 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-03-13 16:21:51,443 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B2358>, {'response': 200}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process_client_message.
+2021-03-13 16:21:51,444 INFO server.py Установлено соединение с ПК ('127.0.0.1', 59293)
+2021-03-13 16:21:51,444 INFO server.py Есть сообщения от клиентов
+2021-03-13 16:21:51,447 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B25C8>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,449 DEBUG decorator.py Была вызвана функция process_client_message c параметрами (<__main__.JIMServer object at 0x01690FD0>, <common.json_messenger.JSONMessenger object at 0x036B25C8>, {'action': 'presence', 'time': 1615641711.4386752, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,449 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1615641711.4386752, 'user': {'account_name': 'Guest'}}
+2021-03-13 16:21:51,450 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-03-13 16:21:51,453 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B25C8>, {'response': 200}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process_client_message.
+2021-03-13 16:21:51,454 INFO server.py Установлено соединение с ПК ('127.0.0.1', 59294)
+2021-03-13 16:21:51,454 INFO server.py Есть сообщения от клиентов
+2021-03-13 16:21:51,456 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B2358>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,458 DEBUG decorator.py Была вызвана функция process_client_message c параметрами (<__main__.JIMServer object at 0x01690FD0>, <common.json_messenger.JSONMessenger object at 0x036B2358>, {'action': 'presence', 'time': 1615641711.4397135, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,459 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1615641711.4397135, 'user': {'account_name': 'Guest'}}
+2021-03-13 16:21:51,459 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-03-13 16:21:51,462 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B2358>, {'response': 200}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process_client_message.
+2021-03-13 16:21:51,464 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B21C0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,466 DEBUG decorator.py Была вызвана функция process_client_message c параметрами (<__main__.JIMServer object at 0x01690FD0>, <common.json_messenger.JSONMessenger object at 0x036B21C0>, {'action': 'presence', 'time': 1615641711.448441, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,466 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1615641711.448441, 'user': {'account_name': 'Guest'}}
+2021-03-13 16:21:51,466 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-03-13 16:21:51,469 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B21C0>, {'response': 200}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process_client_message.
+2021-03-13 16:21:51,469 INFO server.py Установлено соединение с ПК ('127.0.0.1', 59295)
+2021-03-13 16:21:51,469 INFO server.py Есть сообщения от клиентов
+2021-03-13 16:21:51,472 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B25C8>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,474 DEBUG decorator.py Была вызвана функция process_client_message c параметрами (<__main__.JIMServer object at 0x01690FD0>, <common.json_messenger.JSONMessenger object at 0x036B25C8>, {'action': 'presence', 'time': 1615641711.4621115, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,474 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1615641711.4621115, 'user': {'account_name': 'Guest'}}
+2021-03-13 16:21:51,474 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-03-13 16:21:51,476 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B25C8>, {'response': 200}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process_client_message.
+2021-03-13 16:21:51,478 INFO server.py Установлено соединение с ПК ('127.0.0.1', 59296)
+2021-03-13 16:21:51,978 INFO server.py Есть сообщения от клиентов
+2021-03-13 16:21:51,980 DEBUG decorator.py Была вызвана функция get_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B25B0>,), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,981 DEBUG decorator.py Была вызвана функция process_client_message c параметрами (<__main__.JIMServer object at 0x01690FD0>, <common.json_messenger.JSONMessenger object at 0x036B25B0>, {'action': 'presence', 'time': 1615641711.4806669, 'user': {'account_name': 'Guest'}}), {}. Используемый модуль: __main__ и функция main(). Также была вызвана функция process.
+2021-03-13 16:21:51,982 INFO server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1615641711.4806669, 'user': {'account_name': 'Guest'}}
+2021-03-13 16:21:51,982 INFO server.py Cформирован ответ клиенту {'response': 200}
+2021-03-13 16:21:51,984 DEBUG decorator.py Была вызвана функция send_message c параметрами (<common.json_messenger.JSONMessenger object at 0x036B25B0>, {'response': 200}), {}. Используемый модуль: common.json_messenger и функция main(). Также была вызвана функция process_client_message.

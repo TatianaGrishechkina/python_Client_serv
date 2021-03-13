@@ -16,7 +16,7 @@ while True:
         for i in range(2):
             process.append(subprocess.Popen('python client.py 127.0.0.1 7777 send',
                                             creationflags=subprocess.CREATE_NEW_CONSOLE))
-        for i in range(5):
+        for i in range(3):
             process.append(subprocess.Popen('python client.py 127.0.0.1 7777 listen',
                                             creationflags=subprocess.CREATE_NEW_CONSOLE))
     elif action == 'x':
